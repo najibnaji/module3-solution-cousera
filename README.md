@@ -1,5 +1,5 @@
 # module3-solution-cousera
 
 # Demo
-click below link
+click the link
 https://najibnaji.github.io/module3-solution-cousera/
